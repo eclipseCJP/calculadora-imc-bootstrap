@@ -1,6 +1,6 @@
 # calculadora i.m.c #
 
-### conceitos abordados:###
+### conceitos abordados: ###
 
 
 * *Bootstrap*
