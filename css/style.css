@@ -1,0 +1,19 @@
+.body{
+    background-color:#dfe4ea;
+}
+.h1{
+    text-align: center;
+}
+.form{
+    max-width: 300px;
+    margin:auto;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.input{
+    margin: 5px;
+}
+.bntCalcular{
+    margin: 20px;
+    font-size: larger;
+}
